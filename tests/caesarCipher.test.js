@@ -1,4 +1,4 @@
-import { caesarCipher } from "./caesarCipher";
+import { caesarCipher } from "../scripts/caesarCipher.js";
 
 test('Wraps from z to a', () => {
     expect(caesarCipher('X', 4)).toBe('B');
