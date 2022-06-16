@@ -1,1 +1,1 @@
-Basic exercises for practicing Test-driven development (TDD). Involved coding a Caesar Cypher.
+Basic exercises for practicing test-driven development (TDD). Involved coding a Caesar Cypher.
